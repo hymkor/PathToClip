@@ -3,6 +3,8 @@ PathToClip
 
 The program to copy file's path to clipboard.
 
+- Network drive is replaced to UNC path
+
 Install
 -------
 
